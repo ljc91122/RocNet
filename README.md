@@ -17,4 +17,10 @@ The generated data should be put in the "data" folder.
 
 The code is written under python 3.5 + pytorch 0.2.0
 
+The main file for training and testing is "train-nb-128-32.ipynb"
+Please open it with jupyter notebook.
+
+The model is defined in ROctNetmodel_32.py
+The model implements an autoencoder using RocNet, which encodes and reconstructs octrees.
+
 
